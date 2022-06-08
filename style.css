@@ -1,0 +1,255 @@
+.Header
+{
+    background-image: url(img/cr7.jpg);
+    height: 350px;
+
+}
+body
+{
+    margin: 0;
+    padding: 0;
+}
+.Header .header1
+{
+    border-bottom: 1px dashed white;
+    display: flex;
+    /* border: 1px solid orange; */
+    justify-content: space-between;
+    margin: auto;
+    align-items: center;
+    width: 80%;
+    font-size: 10x;
+}
+.right ul li
+{
+    color: orange;
+    list-style: none;
+    display: inline-block;
+    padding-left: 15px;
+    font-size: 15px;
+}
+.header1 .right ul li
+{
+    /* background-color: orange; */
+    color: orange;
+    text-align: center;
+}
+.header1 .left
+{
+    color: orange;
+    font-size: 20px;
+}
+.header1 .left span
+{
+    color: orange;
+}
+.Header .body1
+{
+    color: orange;
+    margin-top: 120px;
+    margin-left: 70px;
+}
+.body1 .above
+{
+    font-size: 35px;
+}
+.body1 .middle
+{
+    font-size: 12px;
+}
+.body1 .last
+{
+    margin-top: 5px;
+}
+.about1 .aboutme
+{
+   text-align: center;
+   font-weight: 800;
+}
+.about1 .aboutme span
+{
+    color: yellow;
+    font-size: 20px;
+}
+.about2
+{
+   text-align: center;
+   font-size: 10px;
+   margin-top:5px;
+}
+.underbar
+{
+    padding-bottom: 10px;
+    border-bottom: 1px dashed gray;
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+    margin: auto;
+    /* border: 1px solid red; */
+    margin-top: 15px;
+}
+.underbar
+{
+    margin-top: 15px   ;
+}
+.unbar1 
+{
+/* 
+    border: 1px solid red; */
+}
+.unbar1 i
+{
+    margin-left: 40%;
+    /* border: 1px solid red; */
+}
+.unbar1 .nono
+{
+    margin-left: 40%;
+    /* border: 1px solid red; */
+}
+.boxskill
+{
+    border-bottom: 1px dashed gray;
+    padding-bottom: 15px;
+    width: 80%;
+    display: flex;
+    margin: auto;
+}
+.boxskill
+{
+    margin-top: 30px;
+}
+.boxx1
+{
+    width: 40%;
+}
+.boxx2
+{
+    width: 60%;
+}
+.mein
+{
+    display: flex;
+}
+.nft
+{
+    width: 40%;
+}
+.wordright
+{
+
+    width: 55%;
+    margin: auto;
+    font-size: 13px;
+}
+.drinking
+{
+    margin-top: 10px;
+    border: 1px solod blue;
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    font-size: 15px;
+    background-color: yellow;
+}
+.training
+{
+    margin-bottom: 5px;
+    justify-content: space-between;
+    display: flex;
+    font-size: 15px;
+    width: 60%;
+    background-color: yellow;
+}
+.sleeping
+{
+    margin-bottom: 5px;
+    justify-content: space-between;
+    display: flex;
+    font-size: 15px;
+    width: 40%;
+    background-color: yellow;
+}
+.Listening
+{
+    justify-content: space-between;
+    display: flex;
+    font-size: 15px;
+    width: 90%;
+    background-color: yellow;
+}
+.unboxx2
+{
+    margin-top: 20px;
+    font-size: 10px;
+}
+.unboxx1
+{
+    font-size: 10px;
+}
+.unboxx1 span
+{
+    font-size: 10px;
+    font-weight: bold;
+}
+.bigtitle
+{
+    margin-top: 20px;
+    width: 100%;
+    text-align: center;
+    font-style: inherit;
+    color: gray;
+}
+.bigtitle1
+{
+    margin-top: 10px;
+    font-size: 10px;
+    color: rgb(134, 134, 15);
+}
+.unend
+{
+ /* border: 1px solid red; */
+ display: flex;
+ margin: auto;
+ width: 80%;
+ justify-content: space-between;
+}
+.unend
+{
+    margin-top: 30px;
+}
+.unend1
+{
+    font-size: 15px;
+    width: 35%;
+    /* border: 1px solid red; */
+}
+.unend2
+{
+    width: 20%;
+    /* border: 1px solid red; */
+}
+.unend3
+{
+    width: 30%;
+    /* border: 1px solid red; */
+}
+.unend01
+{
+  font-size: 10px;  
+}
+.unend2 ul li 
+{
+    font-size: 10px;
+}
+.unend001
+{
+    width: 25%;
+    margin-right: 10px;
+}
+.unend4
+{
+    flex-wrap: wrap;
+    display: flex;
+}
